@@ -1,4 +1,20 @@
 {
+  "banner":[
+
+    {
+      "tmdb_id":"46260"
+    },
+
+    {
+      "tmdb_id":"37854"
+    },
+
+    {
+      "tmdb_id":"95479"
+    }
+
+  ],
+
   "tendencias": [
     {
       "id": "naruto",

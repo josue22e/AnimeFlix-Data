@@ -6,6 +6,11 @@
       "tmdb_id": "46260"
     },
     {
+      "id": "mushoku",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "tmdb_id": "94664"
+    },
+    {
       "id": "onepiece",
       "title": "One Piece",
       "tmdb_id": "37854"
@@ -22,6 +27,11 @@
       "id": "dragonball",
       "title": "Dragon Ball",
       "tmdb_id": "12609"
+    },
+    {
+      "id": "mushoku",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "tmdb_id": "94664"
     }
   ],
 

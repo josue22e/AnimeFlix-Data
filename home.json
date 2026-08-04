@@ -1,6 +1,5 @@
 {
- "popular":[
-
+ "tendencias":[
 
  {
  "id":"naruto",
@@ -8,6 +7,22 @@
  "tmdb_id":"46260"
  },
 
+ {
+ "id":"Mushoku Tensei: Jobless Reincarnation",
+ "title":"Mushoku Tensei: Jobless Reincarnation",
+ "tmdb_id":"94664"
+ },
+  
+ {
+ "id":"onepiece",
+ "title":"One Piece",
+ "tmdb_id":"37854"
+ }
+
+ ],
+
+
+ "popular":[
 
  {
  "id":"bleach",
@@ -17,18 +32,22 @@
 
 
  {
- "id":"onepiece",
- "title":"One Piece",
- "tmdb_id":"37854"
- },
-
-
- {
  "id":"dragonball",
  "title":"Dragon Ball",
  "tmdb_id":"12609"
  }
 
+ ],
+
+
+ "nuevos":[
+
+ {
+ "id":"jujutsu",
+ "title":"Jujutsu Kaisen",
+ "tmdb_id":"95479"
+ }
 
  ]
+
 }

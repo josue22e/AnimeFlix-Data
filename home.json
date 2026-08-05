@@ -1,85 +1,84 @@
 {
-  "banner":[
-
+  "config": {
+    "limite_seccion": 20
+  },
+  "banner": [
     {
-      "tmdb_id":"46260"
-    },
-
-    {
-      "tmdb_id":"37854"
-    },
-
-    {
-      "tmdb_id":"95479"
-    }
-
-  ],
-
-  "top10":[
-    {
-      "tmdb_id":1396
+      "tmdb_id": 37854
     },
     {
-      "tmdb_id":46298
+      "tmdb_id": 330298
     },
     {
-      "tmdb_id":37854
+      "tmdb_id": 73223
     },
     {
-      "tmdb_id":31911
-    },
-    {
-      "tmdb_id":60863
-    },
-    {
-      "tmdb_id":65930
-    },
-    {
-      "tmdb_id":80056
-    },
-    {
-      "tmdb_id":90462
-    },
-    {
-      "tmdb_id":114410
-    },
-    {
-      "tmdb_id":95557
+      "tmdb_id": 94664
     }
   ],
-
-  "tendencias": [
+  "animes": [
     {
-      "id": "naruto",
-      "title": "Naruto",
-      "tmdb_id": "46260"
+      "tmdb_id": 13916
     },
     {
-      "id": "onepiece",
-      "title": "One Piece",
-      "tmdb_id": "37854"
-    }
-  ],
-  
-  "popular": [
-    {
-      "id": "bleach",
-      "title": "Bleach",
-      "tmdb_id": "30984"
+      "tmdb_id": 85937
     },
     {
-      "id": "dragonball",
-      "title": "Dragon Ball",
-      "tmdb_id": "12609"
-    }
-  ],
-
-  "nuevos": [
+      "tmdb_id": 127532
+    },
     {
-      "id": "jujutsu",
-      "title": "Jujutsu Kaisen",
-      "tmdb_id": "95479"
+      "tmdb_id": 224499
+    },
+    {
+      "tmdb_id": 61663
+    },
+    {
+      "tmdb_id": 256721
+    },
+    {
+      "tmdb_id": 209867
+    },
+    {
+      "tmdb_id": 37854
+    },
+    {
+      "tmdb_id": 31911
+    },
+    {
+      "tmdb_id": 330298
+    },
+    {
+      "tmdb_id": 315288
+    },
+    {
+      "tmdb_id": 260463
+    },
+    {
+      "tmdb_id": 65930
+    },
+    {
+      "tmdb_id": 80564
+    },
+    {
+      "tmdb_id": 86031
+    },
+    {
+      "tmdb_id": 31910
+    },
+    {
+      "tmdb_id": 83100
+    },
+    {
+      "tmdb_id": 114410
+    },
+    {
+      "tmdb_id": 73223
+    },
+    {
+      "tmdb_id": 88803
+    },
+    {
+      "tmdb_id": 94664
     }
   ]
 }
-

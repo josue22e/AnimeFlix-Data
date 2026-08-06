@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "contenidos": [
+    {
+      "tmdb_id": 46298,
+      "temporadas": [
+        {
+          "numero": 1,
+          "episodios": [
+            {
+              "numero": 1,
+              "fuentes": [
+                {
+                  "idioma": "LAT",
+                  "url": "https://ia601906.us.archive.org/6/items/coleccion-hxh-latino/%5BYK%5D%20Hunter%20X%20Hunter%20%282011%29%20S01E01.mp4",
+                  "formato": "mp4",
+                  "archivo": "[YK] Hunter X Hunter (2011) S01E01.mp4"
+                }
+              ],
+              "intro": {
+                "inicio": 0,
+                "fin": 90
+              }
+            },
+            {
+              "numero": 2,
+              "fuentes": [
+                {
+                  "idioma": "LAT",
+                  "url": "https://ia801906.us.archive.org/6/items/coleccion-hxh-latino/%5BYK%5D%20Hunter%20X%20Hunter%20%282011%29%20S01E02.mp4",
+                  "formato": "mp4",
+                  "archivo": "[YK] Hunter X Hunter (2011) S01E02.mp4"
+                }
+              ],
+              "intro": {
+                "inicio": 0,
+                "fin": 90
+              }
+            },
+            {
+              "numero": 3,
+              "fuentes": [
+                {
+                  "idioma": "LAT",
+                  "url": "https://ia601906.us.archive.org/6/items/coleccion-hxh-latino/%5BYK%5D%20Hunter%20X%20Hunter%20%282011%29%20S01E03.mp4",
+                  "formato": "mp4",
+                  "archivo": "[YK] Hunter X Hunter (2011) S01E03.mp4"
+                }
+              ],
+              "intro": {
+                "inicio": 0,
+                "fin": 90
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
